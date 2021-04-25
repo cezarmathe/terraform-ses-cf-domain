@@ -1,4 +1,4 @@
-# terraform-ses-cf-domain
+# terraform-aws-ses-cf-domain
 
 Configure a domain managed on Cloudflare for AWS SES.
 
