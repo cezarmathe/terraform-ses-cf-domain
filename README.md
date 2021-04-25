@@ -8,7 +8,3 @@ These are the required permissions that the token must have.
 
 - `Zone:Read`
 - `DNS:Edit`
-
-## License
-
-MIT
