@@ -1,4 +1,4 @@
-# selftechio/cf-ses-domain - versions.tf
+# selftechio/terraform-cf-ses-domain - versions.tf
 
 terraform {
   required_version = ">= 0.15"

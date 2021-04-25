@@ -1,4 +1,4 @@
-# selftechio/cf-ses-domain - main.tf
+# selftechio/terraform-cf-ses-domain - outputs.tf
 
 output "this_arn" {
   description = "ARN of the SES domain identity."

@@ -1,4 +1,4 @@
-# selftechio/cf-ses-domain - main.tf
+# selftechio/terraform-cf-ses-domain - main.tf
 
 data "cloudflare_zones" "this" {
   filter {
