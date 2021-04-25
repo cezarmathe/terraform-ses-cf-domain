@@ -2,7 +2,7 @@
 
 variable "zone" {
   type        = string
-  description = "Cloudflare zone of the domain."
+  description = "Cloudflare zone that holds the domain."
 }
 
 variable "domain" {
